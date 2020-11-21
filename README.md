@@ -5,7 +5,7 @@ profile url: https://www.linkedin.com/in/basavaraj-hj/
 
 Task-2 : To Explore Supervised Machine Learning
 
-Link:
+Link:https://www.linkedin.com/posts/basavaraj-hj_task1-thesparksfoundation-gripnov20-activity-6735958098151903232-glKp
 
 Task-3 : To Explore Unsupervised Machine Learning
 
